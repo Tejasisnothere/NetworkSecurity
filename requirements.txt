@@ -1,0 +1,9 @@
+python-dotenv
+pandas
+numpy
+pymongo
+ipykernel
+matplotlib
+scikit-learn
+fastapi
+seaborn
