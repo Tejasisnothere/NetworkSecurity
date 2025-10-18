@@ -6,4 +6,4 @@ ipykernel
 matplotlib
 scikit-learn
 fastapi
-seaborn
+seaborn 
