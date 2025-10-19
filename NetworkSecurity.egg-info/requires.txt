@@ -6,6 +6,5 @@ ipykernel
 matplotlib
 scikit-learn
 fastapi
-seaborn 
+seaborn
 certifi
--e .
